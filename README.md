@@ -17,7 +17,7 @@
 
 </div>
 
-![头像](image/Background.jpg)
+![头像](image/b6c32b48-937e-4c97-81ec-f014f822293a.png)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Unimend&theme=dracula)
 
