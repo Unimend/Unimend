@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-%E7%9F%A5%E4%B9%8E-%20blue)](https://space.bilibili.com/32303300)
+![Static Badge](https://img.shields.io/badge/Articles-%E7%9F%A5%E4%B9%8E-%20rgb(61%2C%20144%2C%20215))
 
 </div>
 
