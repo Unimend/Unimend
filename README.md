@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=dark&show_icons=true)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=dracula&show_icons=true)](https://b23.tv/iEJTnPp)
 
 
 
