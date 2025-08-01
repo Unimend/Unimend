@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![哔哩哔哩]](https://img.shields.io/badge/video-YouTube-red)(https://space.bilibili.com/32303300)
+[![哔哩哔哩]](https://img.shields.io/badge/video-YouTube-red)](https://space.bilibili.com/32303300)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
