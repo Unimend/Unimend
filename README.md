@@ -6,7 +6,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Articles-%E7%9F%A5%E4%B9%8E-%20rgb(61%2C%20144%2C%20215))
 
-![Static Badge](https://img.shields.io/badge/Video-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-rgb(234%2C%2085%2C%20149))
+![Static Badge](https://img.shields.io/badge/Video-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-rgb(234%2C%2085%2C%20149)) (https://space.bilibili.com/32303300)
 
 ![Static Badge](https://img.shields.io/badge/Portfolio%20of%20work-ArtStation-rgb(56%2C%20163%2C%20239))
 
