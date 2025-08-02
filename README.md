@@ -1,7 +1,7 @@
 <div id="title" align=center>
 
 
-
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/main.gif) <br />
 
 
 
