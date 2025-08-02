@@ -2,7 +2,7 @@
 
 
 ![gif](image/Bruita.gif) <br />
-<video src=image/Bruita.MP4 autoplay loop muted playsinline></video>
+<video src="image/Bruita.mp4" autoplay loop muted playsinline width="100%"></video>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=200&color=44F7DC&center=true&vCenter=true&multiline=true&width=435&height=100&lines=HELLO+WELCOME+TO+UNI%E2%80%98s+HOME;Life+is+a+fucking+moving)](https://git.io/typing-svg)
