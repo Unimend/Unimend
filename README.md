@@ -1,8 +1,7 @@
 <div id="title" align=center>
 
 <img
-  src="https://raw.githubusercontent.com/Shineii86/AniEmojis/main/Smileys/Cat%20With%20Tears%20Of%20Joy.webp"
-  alt="Cat with Tears of Joy"
+  src="image/Bruita.webp"
   width="25"
   height="25"
 
