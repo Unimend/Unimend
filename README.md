@@ -6,8 +6,7 @@
   
 
 
-<img src="image/Bruita.webp" alt="动画描述" style="width: 100; height: 100;" />
-
+<img src="image/Bruita.webp" width="200" height="200" />
 
 
 
