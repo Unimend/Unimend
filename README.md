@@ -6,7 +6,7 @@
   
 
 
-<img src="image/Bruita.webp" width="200" height="200" />
+<img src="image/Bruita.webp" width="400" height="400" />
 
 
 
