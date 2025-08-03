@@ -1,12 +1,3 @@
-<div style="position: relative;">
-  <img src="image/senran.png" >
-
-   
-  </div>
-</div>
-
-
-
 
 <div id="title" align=center>
 
