@@ -2,7 +2,7 @@
 
 
 ![gif](image/Bruita.gif) <br />
-![Image](https://github.com/Unimend/Unimend/discussions/1#discussioncomment-13969130)
+
 
 
 
