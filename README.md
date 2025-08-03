@@ -1,10 +1,7 @@
 <div id="title" align=center>
 
-<img
-  src="image/Bruita.webp"
-  width="25"
-  height="25"
 
+![gif](image/Bruita.webp)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=200&color=44F7DC&center=true&vCenter=true&multiline=true&width=435&height=100&lines=HELLO+WELCOME+TO+UNI%E2%80%98s+HOME;Life+is+a+fucking+moving)](https://git.io/typing-svg)
 
