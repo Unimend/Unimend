@@ -14,7 +14,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Portfolio%20of%20work-ArtStation-rgb(56%2C%20163%2C%20239))](https://www.artstation.com/unimend)
 
-//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=dracula&show_icons=true)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=dracula&show_icons=true)](https://b23.tv/iEJTnPp)
 
 
 
