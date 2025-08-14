@@ -21,9 +21,8 @@
 
 </div>
 
-![头像](image/senran.png)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Unimend&theme=dracula)
+
 
 
 
