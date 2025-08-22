@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img width = "140" src="image/shuidna.png" />
+ <img width = "140" src="image/shuidanic.png" />
  <h2 align = "center">Unimend</h2>
 </p>
 
