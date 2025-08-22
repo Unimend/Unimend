@@ -3,10 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&pause=10&color=DAB6F7&background=FFFFFF00&center=true&random=true&width=750&height=50&lines=Welcome+to+Uni's+Home;%E5%A6%82%E6%9E%9C%E5%86%8D%E4%B9%9F%E4%B8%8D%E8%83%BD%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%8C%E7%A5%9D%E4%BD%A0%E6%97%A9%E5%AE%89%EF%BC%8C%E5%8D%88%E5%AE%89%EF%BC%8C%E6%99%9A%E5%AE%89%E3%80%82)](https://git.io/typing-svg)
 
-<p align="center">
- <img width = "140" src="image/shuidanic.png" />
- <h2 align = "center">UNIMEND</h2>
-</p>
+
 
  
 
