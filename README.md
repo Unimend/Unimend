@@ -17,7 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&theme=dracula&show_icons=true)](https://b23.tv/iEJTnPp)
 
 
-
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Unimend)
 
 </div>
 
