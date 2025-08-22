@@ -4,7 +4,7 @@
 
 <p align="center">
  <img width = "140" src="image/shuidanic.png" />
- <h2 align = "center">Unimend</h2>
+ <h2 align = "center">UNIMEND</h2>
 </p>
 
  
