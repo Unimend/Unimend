@@ -19,6 +19,8 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Unimend)
 
+https://stats.justsong.cn/api/bilibili/?id=32303300
+
 </div>
 
 
