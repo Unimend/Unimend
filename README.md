@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="assets/identity-plate.svg" width="100%" alt="UNIMEND — Technical Artist" />
+<img src="assets/identity-plate.gif" width="100%" alt="UNIMEND — Technical Artist animated terminal" />
 
 <br />
 
