@@ -1,0 +1,58 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#20262B" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="350" fill="#0B0D0F"/>
+  <rect width="1200" height="350" fill="url(#grid)" opacity=".65"/>
+  <path d="M0 0H18V350H0Z" fill="#00D9FF"/>
+  <path d="M1018 0H1200V18H1018Z" fill="#F2C94C"/>
+  <path d="M30 72H1170" stroke="#343A40"/>
+
+  <circle cx="52" cy="42" r="5" fill="#00D9FF"/>
+  <text x="68" y="48" fill="#00D9FF" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">LIVE SYSTEM SNAPSHOT // 2026.11</text>
+  <text x="949" y="48" fill="#7B858D" font-family="monospace" font-size="13" letter-spacing="2">SIGNAL: NOMINAL</text>
+
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="34" y="96" width="252" height="150" fill="#111519" stroke="#343A40"/>
+    <text x="56" y="128" fill="#7B858D" font-size="13" font-weight="700" letter-spacing="3">PUBLIC REPOSITORIES</text>
+    <text x="54" y="208" fill="#E8E8E3" font-size="72" font-weight="900">20</text>
+    <rect x="56" y="224" width="150" height="4" fill="#00D9FF"/>
+
+    <rect x="304" y="96" width="252" height="150" fill="#111519" stroke="#343A40"/>
+    <text x="326" y="128" fill="#7B858D" font-size="13" font-weight="700" letter-spacing="3">YEARLY ACTIVITY</text>
+    <text x="324" y="208" fill="#E8E8E3" font-size="72" font-weight="900">169</text>
+    <text x="480" y="205" fill="#00D9FF" font-size="13" font-weight="700">EVENTS</text>
+    <rect x="326" y="224" width="184" height="4" fill="#F2C94C"/>
+
+    <rect x="574" y="96" width="252" height="150" fill="#111519" stroke="#343A40"/>
+    <text x="596" y="128" fill="#7B858D" font-size="13" font-weight="700" letter-spacing="3">ACTIVE SINCE</text>
+    <text x="594" y="208" fill="#E8E8E3" font-size="64" font-weight="900">2022</text>
+    <rect x="596" y="224" width="116" height="4" fill="#00D9FF"/>
+
+    <rect x="844" y="96" width="326" height="150" fill="#111519" stroke="#343A40"/>
+    <text x="866" y="128" fill="#7B858D" font-size="13" font-weight="700" letter-spacing="3">PRIMARY SIGNALS</text>
+    <text x="866" y="162" fill="#E8E8E3" font-family="monospace" font-size="14">SHADERLAB</text>
+    <rect x="968" y="151" width="164" height="10" fill="#20262B"/><rect x="968" y="151" width="142" height="10" fill="#00D9FF"/>
+    <text x="866" y="190" fill="#E8E8E3" font-family="monospace" font-size="14">JAVA</text>
+    <rect x="968" y="179" width="164" height="10" fill="#20262B"/><rect x="968" y="179" width="118" height="10" fill="#F2C94C"/>
+    <text x="866" y="218" fill="#E8E8E3" font-family="monospace" font-size="14">KOTLIN</text>
+    <rect x="968" y="207" width="164" height="10" fill="#20262B"/><rect x="968" y="207" width="86" height="10" fill="#00D9FF"/>
+  </g>
+
+  <path d="M34 278H768" stroke="url(#fade)" stroke-width="2"/>
+  <g font-family="monospace" font-size="13" letter-spacing="2">
+    <text x="34" y="310" fill="#7B858D">RENDERING</text><text x="130" y="310" fill="#00D9FF">●</text>
+    <text x="172" y="310" fill="#7B858D">TOOLS</text><text x="230" y="310" fill="#00D9FF">●</text>
+    <text x="272" y="310" fill="#7B858D">VFX</text><text x="312" y="310" fill="#00D9FF">●</text>
+    <text x="354" y="310" fill="#7B858D">PROCEDURAL</text><text x="452" y="310" fill="#F2C94C">●</text>
+    <text x="900" y="310" fill="#E8E8E3">OPERATOR // UNIMEND</text>
+  </g>
+  <path d="M1122 278L1154 294L1122 310M1140 278L1172 294L1140 310" stroke="#00D9FF"/>
+</svg>

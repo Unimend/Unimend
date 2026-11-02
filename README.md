@@ -127,8 +127,7 @@ Weather and air-quality information translated into a restrained, glanceable hom
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Unimend&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=00D9FF&text_color=E8E8E3&icon_color=F2C94C&ring_color=00D9FF" alt="Unimend GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unimend&layout=compact&hide_border=true&bg_color=0B0D0F&title_color=00D9FF&text_color=E8E8E3" alt="Most used languages" />
+<img width="100%" src="assets/telemetry-panel.svg" alt="Unimend technical telemetry" />
 
 <br />
 
