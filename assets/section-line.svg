@@ -1,7 +1,10 @@
 <svg width="1200" height="42" viewBox="0 0 1200 42" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect y="20" width="1200" height="1" fill="#343A40"/>
-  <rect y="16" width="118" height="9" fill="#00D9FF"/>
+  <rect y="16" width="118" height="9" fill="#00D9FF">
+    <animate attributeName="x" values="0;950;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="118;42;118" dur="6s" repeatCount="indefinite"/>
+  </rect>
   <rect x="126" y="16" width="28" height="9" fill="#F2C94C"/>
-  <path d="M1137 8L1171 21L1137 34" stroke="#343A40"/>
-  <path d="M1157 8L1191 21L1157 34" stroke="#343A40"/>
+  <path d="M1137 8L1171 21L1137 34" stroke="#343A40"><animate attributeName="stroke" values="#343A40;#00D9FF;#343A40" dur="1.7s" repeatCount="indefinite"/></path>
+  <path d="M1157 8L1191 21L1157 34" stroke="#343A40"><animate attributeName="stroke" values="#343A40;#F2C94C;#343A40" dur="1.7s" begin=".35s" repeatCount="indefinite"/></path>
 </svg>
