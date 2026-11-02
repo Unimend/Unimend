@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.artstation.com/artwork/AlGPRq"><img src="https://cdnb.artstation.com/p/assets/images/images/075/985/857/large/bakairis-034.jpg?1715877721" width="100%" alt="ETTM/D6 — Waterproof Daydream by BAKAIRIS" /></a>
+<a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/waterproof-daydream.jpg" width="100%" alt="ETTM/D6 — Waterproof Daydream by BAKAIRIS" /></a>
 
 <a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/artwork-credit.png" width="100%" alt="Header artwork: ETTM/D6 Waterproof Daydream by BAKAIRIS on ArtStation" /></a>
 
