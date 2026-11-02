@@ -16,9 +16,9 @@
 <img src="assets/pixel-09.gif" height="48" alt="pixel companion 09" />
 </p>
 
-<a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation-rhine-v2.png" height="34" alt="ArtStation" /></a>
-<a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu-rhine-v2.png" height="34" alt="知乎" /></a>
-<a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili-rhine-v2.png" height="34" alt="哔哩哔哩" /></a>
+<a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation-translucent-v3.png" height="34" alt="ArtStation" /></a>
+<a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu-translucent-v3.png" height="34" alt="知乎" /></a>
+<a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili-translucent-v3.png" height="34" alt="哔哩哔哩" /></a>
 
 </div>
 
@@ -36,14 +36,14 @@ I work between image-making and engineering: building shaders, real-time visual 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/UnityRender-BaseLearn"><img src="assets/project-unity-rhine-v2.png" width="100%" alt="UnityRender-BaseLearn — rendering, shader, Unity" /></a>
+<a href="https://github.com/Unimend/UnityRender-BaseLearn"><img src="assets/project-unity-translucent-v3.png" width="100%" alt="UnityRender-BaseLearn — rendering, shader, Unity" /></a>
 
 Studies in real-time rendering, ShaderLab and the visual logic behind a production image.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/Unimend-Webpage"><img src="assets/project-web-rhine-v2.png" width="100%" alt="Unimend-Webpage — visual design, web, archive" /></a>
+<a href="https://github.com/Unimend/Unimend-Webpage"><img src="assets/project-web-translucent-v3.png" width="100%" alt="Unimend-Webpage — visual design, web, archive" /></a>
 
 An evolving personal space for visual experiments, notes and unfinished thoughts.
 
@@ -52,14 +52,14 @@ An evolving personal space for visual experiments, notes and unfinished thoughts
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/nothing-keyboard"><img src="assets/project-keyboard-rhine-v2.png" width="100%" alt="nothing-keyboard — Kotlin, interaction, product" /></a>
+<a href="https://github.com/Unimend/nothing-keyboard"><img src="assets/project-keyboard-translucent-v3.png" width="100%" alt="nothing-keyboard — Kotlin, interaction, product" /></a>
 
 An Android keyboard shaped as much by typography and interaction as by implementation.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/nothing-weather-widget"><img src="assets/project-weather-rhine-v2.png" width="100%" alt="nothing-weather-widget — Java, data, interface" /></a>
+<a href="https://github.com/Unimend/nothing-weather-widget"><img src="assets/project-weather-translucent-v3.png" width="100%" alt="nothing-weather-widget — Java, data, interface" /></a>
 
 Weather and air-quality data translated into a quiet, glanceable visual object.
 
@@ -67,7 +67,7 @@ Weather and air-quality data translated into a quiet, glanceable visual object.
 </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Unimend?tab=repositories"><img src="assets/nav-repositories-rhine-v2.png" height="34" alt="All repositories" /></a></p>
+<p align="right"><a href="https://github.com/Unimend?tab=repositories"><img src="assets/nav-repositories-translucent-v3.png" height="34" alt="All repositories" /></a></p>
 
 <br />
 
