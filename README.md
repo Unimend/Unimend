@@ -2,7 +2,7 @@
 
 <img src="assets/art-monograph-hero.png" width="100%" alt="An abstract material and spatial study" />
 
-<img src="assets/artist-title.gif" width="100%" alt="Unimend — Technical Artist" />
+<img src="assets/artist-title-doto.gif" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
 <sub>
 <a href="https://www.artstation.com/unimend">ArtStation</a>　·　
