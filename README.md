@@ -28,10 +28,6 @@
 
 I work between image-making and engineering: building shaders, real-time visual systems, procedural workflows and tools for artists.
 
-美术生出身，现为技术美术。我的兴趣不只在于让画面“正确地运行”，也在于研究材质、空间、光线和秩序如何共同构成一种视觉经验。
-
-I am interested in the moment where a sketch becomes a system — and where a system still retains the sensitivity of a sketch.
-
 <br />
 
 <img src="assets/section-selected-water-v2.webp" width="100%" alt="Selected work" />
