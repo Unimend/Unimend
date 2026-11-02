@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="assets/art-monograph-hero.png" width="100%" alt="An abstract material and spatial study" />
+<img src="assets/art-nothing-hero.png" width="100%" alt="An abstract material and transparent construction study" />
 
 <img src="assets/artist-title-doto.gif" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
-<sub>
-<a href="https://www.artstation.com/unimend">ArtStation</a>　·　
-<a href="https://www.zhihu.com/people/styx-q">知乎</a>　·　
-<a href="https://space.bilibili.com/32303300">哔哩哔哩</a>
-</sub>
+<a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation.png" height="34" alt="ArtStation" /></a>
+<a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu.png" height="34" alt="知乎" /></a>
+<a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili.png" height="34" alt="哔哩哔哩" /></a>
 
 </div>
 
 <br />
 
-### About
+<img src="assets/section-about.png" width="100%" alt="About" />
 
 I work between image-making and engineering: building shaders, real-time visual systems, procedural workflows and tools for artists.
 
@@ -24,77 +22,61 @@ I am interested in the moment where a sketch becomes a system — and where a sy
 
 <br />
 
-<img src="assets/editorial-rule.svg" width="100%" alt="divider" />
-
-### Selected work
+<img src="assets/section-selected.png" width="100%" alt="Selected work" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [UnityRender-BaseLearn](https://github.com/Unimend/UnityRender-BaseLearn)
+<a href="https://github.com/Unimend/UnityRender-BaseLearn"><img src="assets/project-unity.png" width="100%" alt="UnityRender-BaseLearn — rendering, shader, Unity" /></a>
 
 Studies in real-time rendering, ShaderLab and the visual logic behind a production image.
-
-`rendering`　`shader`　`Unity`
 
 </td>
 <td width="50%" valign="top">
 
-#### [Unimend-Webpage](https://github.com/Unimend/Unimend-Webpage)
+<a href="https://github.com/Unimend/Unimend-Webpage"><img src="assets/project-web.png" width="100%" alt="Unimend-Webpage — visual design, web, archive" /></a>
 
 An evolving personal space for visual experiments, notes and unfinished thoughts.
-
-`visual design`　`web`　`archive`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### [nothing-keyboard](https://github.com/Unimend/nothing-keyboard)
+<a href="https://github.com/Unimend/nothing-keyboard"><img src="assets/project-keyboard.png" width="100%" alt="nothing-keyboard — Kotlin, interaction, product" /></a>
 
 An Android keyboard shaped as much by typography and interaction as by implementation.
-
-`Kotlin`　`interaction`　`product`
 
 </td>
 <td width="50%" valign="top">
 
-#### [nothing-weather-widget](https://github.com/Unimend/nothing-weather-widget)
+<a href="https://github.com/Unimend/nothing-weather-widget"><img src="assets/project-weather.png" width="100%" alt="nothing-weather-widget — Java, data, interface" /></a>
 
 Weather and air-quality data translated into a quiet, glanceable visual object.
-
-`Java`　`data`　`interface`
 
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Unimend?tab=repositories">All repositories ↗</a></p>
+<p align="right"><a href="https://github.com/Unimend?tab=repositories"><img src="assets/nav-repositories.png" height="34" alt="All repositories" /></a></p>
 
 <br />
 
-<img src="assets/editorial-rule.svg" width="100%" alt="divider" />
+<img src="assets/section-practice.png" width="100%" alt="Practice" />
 
-### Practice
-
-`Real-time rendering`　　`Shaders`　　`Procedural systems`　　`Artist tools`
-
-`Unity`　　`Unreal Engine`　　`Blender`　　`C#`　　`Kotlin`
+<img src="assets/practice-doto.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
 
 My practice moves between **observation**, **construction**, and **iteration**. Tools are not separate from aesthetics; they quietly determine which images are possible.
 
 <br />
 
-<img src="assets/editorial-rule.svg" width="100%" alt="divider" />
+<img src="assets/section-notes.png" width="100%" alt="Notes and telemetry" />
 
-### Notes / telemetry
-
-<img src="assets/telemetry-panel.svg" width="100%" alt="A quiet snapshot of Unimend's GitHub practice" />
+<img src="assets/telemetry-doto.png" width="100%" alt="A quiet snapshot of Unimend's GitHub practice" />
 
 <div align="center">
 
-<sub>Open to conversations about rendering, tools, visual systems and the spaces between them.</sub>
+<img src="assets/footer-note.png" width="100%" alt="Open to conversations about rendering, tools and visual systems" />
 
 </div>
