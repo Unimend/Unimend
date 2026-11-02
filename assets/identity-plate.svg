@@ -1,0 +1,14 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="210" fill="#0B0D0F"/>
+  <path d="M0 0H18V210H0V0Z" fill="#00D9FF"/>
+  <path d="M1110 0H1200V18H1110V0Z" fill="#F2C94C"/>
+  <path d="M820 163H1200V210H820L866 186.5L820 163Z" fill="#15191D"/>
+  <path d="M34 25H1165" stroke="#343A40"/>
+  <path d="M34 178H790" stroke="#343A40"/>
+  <text x="52" y="54" fill="#00D9FF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="4">IDENTITY // TA-042</text>
+  <text x="48" y="132" fill="#E8E8E3" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="5">UNIMEND</text>
+  <text x="837" y="114" fill="#E8E8E3" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="4">TECHNICAL ARTIST</text>
+  <text x="870" y="190" fill="#7B858D" font-family="monospace" font-size="12" letter-spacing="2">ART × ENGINEERING</text>
+  <rect x="1130" y="46" width="11" height="76" fill="#E8E8E3"/>
+  <rect x="1148" y="46" width="5" height="76" fill="#00D9FF"/>
+</svg>
