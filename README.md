@@ -81,7 +81,7 @@ My practice moves between **observation**, **construction**, and **iteration**. 
 
 <img src="assets/section-notes-water-v2.webp" width="100%" alt="Notes and telemetry" />
 
-<img src="assets/telemetry-doto.png" width="100%" alt="A quiet snapshot of Unimend's GitHub practice" />
+<img src="assets/telemetry-doto-motion.webp" width="100%" alt="Animated count-up snapshot of Unimend's GitHub practice" />
 
 <div align="center">
 
