@@ -73,7 +73,7 @@ Weather and air-quality data translated into a quiet, glanceable visual object.
 
 <img src="assets/section-practice-water-v3.webp" width="100%" alt="Practice" />
 
-<img src="assets/practice-rhine-v2.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
+<img src="assets/practice-translucent-v3.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
 
 My practice moves between **observation**, **construction**, and **iteration**. Tools are not separate from aesthetics; they quietly determine which images are possible.
 
@@ -81,7 +81,7 @@ My practice moves between **observation**, **construction**, and **iteration**. 
 
 <img src="assets/section-notes-water-v3.webp" width="100%" alt="Notes and telemetry" />
 
-<img src="assets/telemetry-rhine-motion-v2.webp" width="100%" alt="Animated count-up snapshot of Unimend's GitHub practice" />
+<img src="assets/telemetry-translucent-motion-v3.webp" width="100%" alt="Animated count-up snapshot of Unimend's GitHub practice" />
 
 <div align="center">
 
