@@ -2,8 +2,6 @@
 
 <a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/waterproof-daydream.jpg" width="100%" alt="ETTM/D6 — Waterproof Daydream by BAKAIRIS" /></a>
 
-<a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/artwork-credit.png" width="100%" alt="Header artwork: ETTM/D6 Waterproof Daydream by BAKAIRIS on ArtStation" /></a>
-
 <img src="assets/artist-title-waterproof.gif" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
 <a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation.png" height="34" alt="ArtStation" /></a>
