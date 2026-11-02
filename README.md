@@ -4,6 +4,18 @@
 
 <img src="assets/artist-title-waterproof-v2.webp" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
+<p>
+<img src="assets/pixel-01.gif" height="48" alt="pixel companion 01" />&nbsp;
+<img src="assets/pixel-02.gif" height="48" alt="pixel companion 02" />&nbsp;
+<img src="assets/pixel-03.gif" height="48" alt="pixel companion 03" />&nbsp;
+<img src="assets/pixel-04.gif" height="48" alt="pixel companion 04" />&nbsp;
+<img src="assets/pixel-05.gif" height="48" alt="pixel companion 05" />&nbsp;
+<img src="assets/pixel-06.gif" height="48" alt="pixel companion 06" />&nbsp;
+<img src="assets/pixel-07.gif" height="48" alt="pixel companion 07" />&nbsp;
+<img src="assets/pixel-08.gif" height="48" alt="pixel companion 08" />&nbsp;
+<img src="assets/pixel-09.gif" height="48" alt="pixel companion 09" />
+</p>
+
 <a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation.png" height="34" alt="ArtStation" /></a>
 <a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu.png" height="34" alt="知乎" /></a>
 <a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili.png" height="34" alt="哔哩哔哩" /></a>
