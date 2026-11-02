@@ -2,7 +2,7 @@
 
 <a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/waterproof-daydream.jpg" width="100%" alt="ETTM/D6 — Waterproof Daydream by BAKAIRIS" /></a>
 
-<img src="assets/artist-title-waterproof-v2.webp" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
+<img src="assets/artist-title-waterproof-v3.webp" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
 <p>
 <img src="assets/pixel-01.gif" height="48" alt="pixel companion 01" />&nbsp;
@@ -16,34 +16,34 @@
 <img src="assets/pixel-09.gif" height="48" alt="pixel companion 09" />
 </p>
 
-<a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation.png" height="34" alt="ArtStation" /></a>
-<a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu.png" height="34" alt="知乎" /></a>
-<a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili.png" height="34" alt="哔哩哔哩" /></a>
+<a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation-rhine-v2.png" height="34" alt="ArtStation" /></a>
+<a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu-rhine-v2.png" height="34" alt="知乎" /></a>
+<a href="https://space.bilibili.com/32303300"><img src="assets/nav-bilibili-rhine-v2.png" height="34" alt="哔哩哔哩" /></a>
 
 </div>
 
 <br />
 
-<img src="assets/section-about-water-v2.webp" width="100%" alt="About" />
+<img src="assets/section-about-water-v3.webp" width="100%" alt="About" />
 
 I work between image-making and engineering: building shaders, real-time visual systems, procedural workflows and tools for artists.
 
 <br />
 
-<img src="assets/section-selected-water-v2.webp" width="100%" alt="Selected work" />
+<img src="assets/section-selected-water-v3.webp" width="100%" alt="Selected work" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/UnityRender-BaseLearn"><img src="assets/project-unity.png" width="100%" alt="UnityRender-BaseLearn — rendering, shader, Unity" /></a>
+<a href="https://github.com/Unimend/UnityRender-BaseLearn"><img src="assets/project-unity-rhine-v2.png" width="100%" alt="UnityRender-BaseLearn — rendering, shader, Unity" /></a>
 
 Studies in real-time rendering, ShaderLab and the visual logic behind a production image.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/Unimend-Webpage"><img src="assets/project-web.png" width="100%" alt="Unimend-Webpage — visual design, web, archive" /></a>
+<a href="https://github.com/Unimend/Unimend-Webpage"><img src="assets/project-web-rhine-v2.png" width="100%" alt="Unimend-Webpage — visual design, web, archive" /></a>
 
 An evolving personal space for visual experiments, notes and unfinished thoughts.
 
@@ -52,14 +52,14 @@ An evolving personal space for visual experiments, notes and unfinished thoughts
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/nothing-keyboard"><img src="assets/project-keyboard.png" width="100%" alt="nothing-keyboard — Kotlin, interaction, product" /></a>
+<a href="https://github.com/Unimend/nothing-keyboard"><img src="assets/project-keyboard-rhine-v2.png" width="100%" alt="nothing-keyboard — Kotlin, interaction, product" /></a>
 
 An Android keyboard shaped as much by typography and interaction as by implementation.
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Unimend/nothing-weather-widget"><img src="assets/project-weather.png" width="100%" alt="nothing-weather-widget — Java, data, interface" /></a>
+<a href="https://github.com/Unimend/nothing-weather-widget"><img src="assets/project-weather-rhine-v2.png" width="100%" alt="nothing-weather-widget — Java, data, interface" /></a>
 
 Weather and air-quality data translated into a quiet, glanceable visual object.
 
@@ -67,24 +67,24 @@ Weather and air-quality data translated into a quiet, glanceable visual object.
 </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Unimend?tab=repositories"><img src="assets/nav-repositories.png" height="34" alt="All repositories" /></a></p>
+<p align="right"><a href="https://github.com/Unimend?tab=repositories"><img src="assets/nav-repositories-rhine-v2.png" height="34" alt="All repositories" /></a></p>
 
 <br />
 
-<img src="assets/section-practice-water-v2.webp" width="100%" alt="Practice" />
+<img src="assets/section-practice-water-v3.webp" width="100%" alt="Practice" />
 
-<img src="assets/practice-doto.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
+<img src="assets/practice-rhine-v2.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
 
 My practice moves between **observation**, **construction**, and **iteration**. Tools are not separate from aesthetics; they quietly determine which images are possible.
 
 <br />
 
-<img src="assets/section-notes-water-v2.webp" width="100%" alt="Notes and telemetry" />
+<img src="assets/section-notes-water-v3.webp" width="100%" alt="Notes and telemetry" />
 
-<img src="assets/telemetry-doto-motion.webp" width="100%" alt="Animated count-up snapshot of Unimend's GitHub practice" />
+<img src="assets/telemetry-rhine-motion-v2.webp" width="100%" alt="Animated count-up snapshot of Unimend's GitHub practice" />
 
 <div align="center">
 
-<img src="assets/footer-note.png" width="100%" alt="Open to conversations about rendering, tools and visual systems" />
+<img src="assets/footer-note-rhine-v2.png" width="100%" alt="Open to conversations about rendering, tools and visual systems" />
 
 </div>
