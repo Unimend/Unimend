@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/art-nothing-hero.png" width="100%" alt="An abstract material and transparent construction study" />
+<a href="https://www.artstation.com/artwork/AlGPRq"><img src="https://cdnb.artstation.com/p/assets/images/images/075/985/857/large/bakairis-034.jpg?1715877721" width="100%" alt="ETTM/D6 — Waterproof Daydream by BAKAIRIS" /></a>
 
-<img src="assets/artist-title-doto.gif" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
+<a href="https://www.artstation.com/artwork/AlGPRq"><img src="assets/artwork-credit.png" width="100%" alt="Header artwork: ETTM/D6 Waterproof Daydream by BAKAIRIS on ArtStation" /></a>
+
+<img src="assets/artist-title-waterproof.gif" width="100%" alt="Unimend — Technical Artist in Doto typeface" />
 
 <a href="https://www.artstation.com/unimend"><img src="assets/nav-artstation.png" height="34" alt="ArtStation" /></a>
 <a href="https://www.zhihu.com/people/styx-q"><img src="assets/nav-zhihu.png" height="34" alt="知乎" /></a>
@@ -12,7 +14,7 @@
 
 <br />
 
-<img src="assets/section-about.png" width="100%" alt="About" />
+<img src="assets/section-about-water.gif" width="100%" alt="About" />
 
 I work between image-making and engineering: building shaders, real-time visual systems, procedural workflows and tools for artists.
 
@@ -22,7 +24,7 @@ I am interested in the moment where a sketch becomes a system — and where a sy
 
 <br />
 
-<img src="assets/section-selected.png" width="100%" alt="Selected work" />
+<img src="assets/section-selected-water.gif" width="100%" alt="Selected work" />
 
 <table>
 <tr>
@@ -63,7 +65,7 @@ Weather and air-quality data translated into a quiet, glanceable visual object.
 
 <br />
 
-<img src="assets/section-practice.png" width="100%" alt="Practice" />
+<img src="assets/section-practice-water.gif" width="100%" alt="Practice" />
 
 <img src="assets/practice-doto.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
 
@@ -71,7 +73,7 @@ My practice moves between **observation**, **construction**, and **iteration**. 
 
 <br />
 
-<img src="assets/section-notes.png" width="100%" alt="Notes and telemetry" />
+<img src="assets/section-notes-water.gif" width="100%" alt="Notes and telemetry" />
 
 <img src="assets/telemetry-doto.png" width="100%" alt="A quiet snapshot of Unimend's GitHub practice" />
 
