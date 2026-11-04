@@ -75,7 +75,7 @@ Weather and air-quality data translated into a quiet, glanceable visual object.
 
 <img src="assets/practice-translucent-v3.png" width="100%" alt="Real-time rendering, shaders, procedural systems, artist tools, Unity, Unreal Engine, Blender, C Sharp and Kotlin" />
 
-My practice moves between **observation**, **construction**, and **iteration**. Tools are not separate from aesthetics; they quietly determine which images are possible.
+between **observation**, **construction**, and **iteration**. Tools are not separate from aesthetics; they quietly determine which images are possible.
 
 <br />
 
